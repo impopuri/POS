@@ -1,0 +1,6 @@
+timestamp,orders,subtotal,total,change,customer
+2025-06-18T00:31:35.3061925,"[Matcha (Lrg', Cold) 1x]",135.00,135.00,864.00,Walk-in
+2025-06-18T00:32:11.7769459,"[CafeLatte (Lrg', Cold) 1x', Matcha (Lrg', Hot) 1x]",255.00,255.00,45.00,Walk-in
+2025-06-18T01:25:53.6718883,"[Chocolate (Lrg', Cold) 2x]",270.00,270.00,30.00,Francis
+2025-06-18T01:43:45.4496922,"[Chocolate (Lrg', Cold) 1x]",135.00,135.00,65.00,Francis
+2025-06-18T01:44:08.0146799,"[CafeLatte (Lrg', Cold) 1x', Chocolate (Reg', Cold) 1x]",250.00,250.00,50.00,Jean
